@@ -1,0 +1,13 @@
+{
+  "name": "redjanym/pushover-php",
+  "type": "library",
+  "description": "PHP SDK for the pushover.net API",
+  "license": "GNU General Public License",
+  "authors": [{
+    "name": "Redjan Ymeraj",
+    "email": "ymerajredjan@gmail.com"
+  }],
+  "autoload": {
+    "files": ["Pushover.php"]
+  }
+}
