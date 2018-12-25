@@ -7,7 +7,7 @@ PHP SDK(not official) for the pushover.net API
 * Use composer:
 
 ```bash
-composer require redjanym/pushover-php
+composer require redjanym/pushover-php "dev-master"
 ```
 
 * Download and include file:
