@@ -2,7 +2,7 @@
   "name": "redjanym/pushover-php",
   "type": "library",
   "description": "PHP SDK for the pushover.net API",
-  "license": "GNU General Public License",
+  "license": "GPL-3.0-only",
   "authors": [{
     "name": "Redjan Ymeraj",
     "email": "ymerajredjan@gmail.com"
